@@ -1,2 +1,25 @@
-# 03b0c856-dental-practice-management-pro
-Tired of spending hours crafting patient emails, social posts, and internal memos for your dental practice? This prompt library turns AI tools into your personal practice management assistant.  Stop reinventing the wheel for every patient communication, marketing campaign, or operational task. This library provides 50+ ready-to-use, customizable pr
+# Dental Practice Management Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x28wPaDdgaU5tugUcd0p0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x28wPaDdgaU5tugUcd0p0s)
+
